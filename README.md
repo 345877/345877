@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @345877
 - 👀 I’m interested in coding .bat files
-- 🌱 I’m currently learning how to crate malware
+- 🌱 I’m currently learning how to create malware
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me You wont
 
